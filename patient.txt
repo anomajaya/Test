@@ -2,5 +2,4 @@ Name
 Gender
 Age
 Address
-Bug 2
 PHN No:
